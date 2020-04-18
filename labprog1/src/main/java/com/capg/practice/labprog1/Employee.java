@@ -1,4 +1,4 @@
-package com.capg.practice.labprog1;
+package com.capg.practice.lab1;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.ApplicationContext;

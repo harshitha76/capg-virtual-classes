@@ -1,4 +1,4 @@
-package com.capg.practice.labprog1;
+package com.capg.practice.lab1;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

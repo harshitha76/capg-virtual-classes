@@ -1,4 +1,4 @@
-package com.capg.practice.labprog1;
+package com.capg.practice.lab1;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
